@@ -1,13 +1,5 @@
 ### Hi, I'm Enric!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycoas&layout=compact&theme=dark&hide=javascript,css,scss,html&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/enric-condal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enric-condal" height="30" width="40" /></a>
-<a href="https://instagram.com/enric_condal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enric.condal" height="30" width="40" /></a>
-</p>
-
 <!--
 **henrycoas/henrycoas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
